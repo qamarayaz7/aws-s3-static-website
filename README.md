@@ -12,6 +12,7 @@ This is a simple static website hosted on **Amazon S3** using AWS Free Tier.
 - `style.css` – Stylesheet
 
 ## 🚀 Next Steps
-- Upload these files to AWS S3
-- Enable static website hosting
-- Share the public URL
+- Uploaded these files to AWS S3
+- Enabled static website hosting
+-🌐 **Live Preview**: [Click to view the website]
+(http://firstq-static-site.s3-website-us-east-1.amazonaws.com)
